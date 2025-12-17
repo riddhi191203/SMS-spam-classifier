@@ -1,0 +1,8 @@
+streamlit>=1.25
+numpy
+pandas
+scikit-learn
+requests
+beautifulsoup4
+pillow>=10.0.0
+nltk
